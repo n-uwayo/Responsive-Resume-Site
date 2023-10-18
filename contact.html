@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body style="min-height: 10vh;">
+    <header>
+        <nav>
+            <div class="reachme">
+                <a href="index.html"> <i class="fa fa-home" aria-hidden="true"></i>Home</a>
+            </div>
+            <div class="photo" style="width: 200px;height: 40px;align-items: center;display: flex;">
+                <img src=" p4.PNG " style="width: 40px;height: 40px;border-radius: 50px;">
+                <span style="padding-left:2rem;color:white;">Noella Uwayo</span>
+            </div>
+
+        </nav>
+    </header>
+    <div class="content">
+        <h2 style="color:white;">Welcome, I'm ready to hear from you<br>
+            <button id="apl">Contact</button>
+        </h2>
+
+        <div class="form" id="form">
+            <input type="text" placeholder="First name" id="fname" required><br><br>
+            <input type="text" placeholder="Last name" id="lname" required><br><br>
+            <input type="email" placeholder="Email" id="email" required><br><br>
+            <textarea name="message" rows="4" placeholder="Leave a message" required></textarea>
+            <input type="submit" value="Submit" id="submit">
+        </div>
+
+        <div class="reply" id="repl">
+
+        </div>
+    </div>
+
+    <footer class="footer ">
+        <div class="contant ">
+            <p>&copy; 2023 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+<script src="index.js "></script>
+
+</html>
