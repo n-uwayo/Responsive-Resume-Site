@@ -1,23 +1,23 @@
 # Responsive-Resume-Site
 Responsive design
 
-This is aproject for my Resume. It is responsive so that it can be displayed for every screen. Through this project you may know more about me; my address, Education, skills,experience,...
+This is a project for my Resume. It is responsive so that it can be displayed on every screen. Through this project, you may know more about me: my address, Education, skills, and experience,...
 
-#Build with
+# Build with
 
 HTML
 CSS
 JAVASCRIPT
 
-#Features
+# Features
 
-You can leave me a message by clicking on contact me and fill the form
+You can leave me a message by clicking on Contact Me and filling out the form.
 
-#Tools
+# Tools
 
 VS Code
-#Author
-\
+# Author
+
 Noella UWAYO
 
 # website link
