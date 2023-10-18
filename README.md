@@ -3,7 +3,8 @@ Responsive design
 
 This is a project for my Resume. It is responsive so that it can be displayed on every screen. Through this project, you may know more about me: my address, Education, skills, and experience,...
 # Screenshoot
-![resume](https://github.com/n-uwayo/Responsive-Resume-Site/assets/122350054/09d24da6-5b2a-4c06-a30c-7198e07be276)
+![screen](https://github.com/n-uwayo/Responsive-Resume-Site/assets/122350054/88998bfe-f825-46d8-835d-1e3ac9da485a)
+
 
 # Build with
 
